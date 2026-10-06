@@ -72,7 +72,7 @@ Learn → Build → Test → Improve → Repeat
 
 I'm interested in learning, building projects, collaborating, and connecting with fellow developers.
 
-**GitHub:** [@vivekkarmakar044](https://github.com/vivekkarmakar044)
+**GitHub:** [@vivek-karmakar](https://github.com/vivekkarmakar044)
 
 
 <!--
