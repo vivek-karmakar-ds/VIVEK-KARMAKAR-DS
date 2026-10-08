@@ -19,17 +19,9 @@ I'm a Computer Science student building strong programming fundamentals and prac
 - Machine learning fundamentals
 - Software development practices
 
-## Portfolio plan
+## Featured project
 
-I'm building a portfolio of small, reproducible projects. My first data analysis case study will:
-
-1. Start with a clear question and a cited public dataset.
-2. Clean and explore the data with Python.
-3. Use visualizations to explain the main patterns.
-4. Summarize findings, assumptions, and limitations.
-5. Include instructions so someone else can run the work.
-
-As I publish projects, I'll link them here with a short description of the problem and what I learned.
+- [Iris Data Analysis & Baseline Classification](https://github.com/vivek-karmakar-ds/iris-data-analysis) — a reproducible learning case study with data checks, species-level summaries, a visualization, and a simple classification baseline. The repository includes setup instructions and generates its metrics when run.
 
 ## Goals
 
