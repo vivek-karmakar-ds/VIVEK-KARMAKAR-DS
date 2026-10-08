@@ -1,91 +1,45 @@
 # Hi, I'm Vivek Karmakar 👋
 
-### B.Tech CSE | Data Science Student
+### B.Tech CSE Student | Data Science & Machine Learning
 
-I'm a Computer Science student focused on building strong programming fundamentals and developing practical skills in software development, data science, and machine learning.
+I'm a Computer Science student building strong programming fundamentals and practical skills in data science. I learn by writing code, solving problems, and turning what I study into small projects.
 
-I learn by building projects, solving problems, and continuously improving my technical skills.
+## Areas I'm developing
 
----
+- **Programming:** C, C++, Python, and Java
+- **Computer science:** Data structures, algorithms, and problem solving
+- **Data science:** Python, NumPy, Pandas, and Matplotlib
+- **Machine learning:** Data preprocessing, model building, and evaluation
+- **Tools:** Git, GitHub, and VS Code
 
-## 🛠️ Tech Stack
+## Currently learning
 
-**Languages**
-`C` `C++` `Python` `Java`
+- Data structures and algorithms
+- Python workflows for data analysis
+- Machine learning fundamentals
+- Software development practices
 
-**Core**
-`Data Structures` `Algorithms` `Problem Solving`
+## Portfolio plan
 
-**Data Science & ML**
-`Python` `NumPy` `Pandas` `Matplotlib` `Machine Learning`
+I'm building a portfolio of small, reproducible projects. My first data analysis case study will:
 
-**Tools**
-`Git` `GitHub` `VS Code`
+1. Start with a clear question and a cited public dataset.
+2. Clean and explore the data with Python.
+3. Use visualizations to explain the main patterns.
+4. Summarize findings, assumptions, and limitations.
+5. Include instructions so someone else can run the work.
 
----
+As I publish projects, I'll link them here with a short description of the problem and what I learned.
 
-## 📚 Currently Learning
+## Goals
 
-* Data Structures & Algorithms
-* Python for Data Science
-* Machine Learning
-* Software Development
-* Git & GitHub
+- Strengthen my programming and problem-solving skills.
+- Publish practical projects with clear, reproducible explanations.
+- Explore data science and machine learning through hands-on work.
+- Contribute to open-source projects as I gain experience.
 
----
+## Let's connect
 
-## 🚀 Projects
-
-### C Programming
-
-Programming fundamentals, loops, functions, recursion, arrays, patterns, and problem-solving.
-
-### Python Projects
-
-Python programs and mini-projects focused on programming fundamentals and practical applications.
-
-### Machine Learning
-
-Beginner machine-learning projects covering data preprocessing, model building, evaluation, and experimentation.
-
----
-
-## 🎯 Goals
-
-* Build strong programming fundamentals
-* Develop real-world projects
-* Improve problem-solving and DSA skills
-* Explore Data Science and Machine Learning
-* Contribute to open-source projects
-
----
-
-## 📈 My Approach
-
-```text
-Learn → Build → Test → Improve → Repeat
-```
-
----
-
-## 🤝 Let's Connect
-
-I'm interested in learning, building projects, collaborating, and connecting with fellow developers.
+I'm interested in learning, building projects, and collaborating with fellow developers.
 
 **GitHub:** [@vivek-karmakar-ds](https://github.com/vivek-karmakar-ds)
-
-
-<!--
-**vivek-karmakar-ds/VIVEK-KARMAKAR-DS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
